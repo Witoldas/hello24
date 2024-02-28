@@ -8,6 +8,7 @@ namespace hello24
         {
             Console.WriteLine("Hello World24!");
             Console.WriteLine("Witej Witku.");
+            Console.WriteLine("Będę kandydował");
         }
     }
 }
